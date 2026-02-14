@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "UD Best Ball Draft Helper",
+  "version": "0.1.0",
+  "description": "Hello world Chrome extension for Underdog Fantasy best ball drafts",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
